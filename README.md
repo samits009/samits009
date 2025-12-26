@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Everyone, I am Samit Shukla 👋
 
 <!--
 **samits009/samits009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
